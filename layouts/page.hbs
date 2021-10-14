@@ -1,0 +1,24 @@
+{{> header }}
+<div class="container">
+  <div class="row">
+    <div class="ten columns offset-by-two">
+      <article>
+        <section>
+          <h1>{{{ page.title }}}</h1>
+        </section>
+        <section>
+          {{{ contents }}}
+
+
+          <h2>Blog</h2>
+
+          {{#each collections.things }}
+            {{> smallthing }}
+          {{/each }}
+
+        </section>
+      </article>
+    </div>
+  </div>
+</div>
+{{>footer}}

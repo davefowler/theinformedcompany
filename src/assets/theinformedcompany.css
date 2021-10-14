@@ -1,0 +1,126 @@
+body a {
+  color: rgb(71, 89, 153);
+
+}
+
+body a:hover {
+  color: #5D6EA8; }
+
+small {
+  font-size: 24px;
+}
+
+figure {
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+
+blockquote {
+  position: relative;
+  font-style: italic;
+}
+
+blockquote:before {
+    content: '\201C';
+    position: absolute;
+    top: -.5em;
+    left: -0.5em;
+    color: #77F;
+    font-size: 6em;
+    z-index: -1;
+ }
+
+ .container {
+   max-width: 960px;
+ }
+
+article img {
+  max-width: 640px;
+}
+
+.footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.header .nav-categories a,
+.header .nav-categories span {
+  opacity: .3
+}
+
+.nav {
+  margin-top: 20px;
+}
+
+.nav a {
+  text-decoration: none;
+}
+
+.header a.selected {
+  opacity: 1
+}
+
+h1 small {
+  font-size: 16px;
+}
+
+.hero {
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 100% auto, contain;
+  /* background-image: url("/assets/images/hero.png"); */
+}
+
+.logo, header a.logo {
+  font-weight: 600;
+  color: rgb(229, 144, 67);
+}
+
+header a:hover {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.header h5 {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.header h5 a {
+  text-decoration: none;
+  font-weight: 400;
+}
+
+.header h5 a:hover {
+  text-decoration: underline;
+}
+
+.header .i-about {
+  color: inherit;
+}
+
+h1 {
+  margin-top: 2em;
+}
+
+html body, html article {
+  font-family: Lato, serif, Georgia;
+  font-size: 16px;
+}
+
+.header h5 a[href="/{{ category }}/"] {
+  text-decoration: underline;
+  color: #222;
+  font-size: 1em;
+}
+
+/* Larger than phablet */
+@media (min-width: 550px) {
+  h1 { font-size: 3.0rem; }
+  h2 { font-size: 2.6rem; }
+  h3 { font-size: 2.2rem; }
+  h4 { font-size: 2.0rem; }
+  h5 { font-size: 1.6rem; }
+  h6 { font-size: 1.2rem; }
+}
