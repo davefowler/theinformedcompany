@@ -1,4 +1,4 @@
-# Simple Metalsmith site for a books
+# Simple Metalsmith site for a books at [theinformedcompany.com](https://theinformedcompany.com)
 
 
 
