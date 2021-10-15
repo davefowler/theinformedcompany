@@ -12,7 +12,7 @@ permalink: false
 
 <a href="https://amzn.to/3AxLdln">
 
-  <img src="/assets/images/covers/white-cover.jpg" height="650px">
+  <img src="/assets/images/covers/white-cover.jpg" style="max-width: 100%">
 
 </a>
 
