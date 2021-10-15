@@ -22,10 +22,10 @@ var Metalsmith  = require('metalsmith'),
 // source files and passes it on to the plugins.
 Metalsmith(__dirname)
     .use(directoryMetadata()) // metadata.yaml files spread defaults
-    // .use(assets({
-    //   source: './assets', // relative to the working directory
-    //   destination: './assets' // relative to the build directory
-    // }))
+    .use(assets({
+      source: './src/assets', // relative to the working directory
+      destination: './assets' // relative to the build directory
+    }))
     // .use(watch())
 
     .use(collections({posts: {

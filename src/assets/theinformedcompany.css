@@ -44,10 +44,6 @@ article img {
   padding-bottom: 20px;
 }
 
-.header .nav-categories a,
-.header .nav-categories span {
-  opacity: .3
-}
 
 .nav {
   margin-top: 20px;
@@ -57,9 +53,46 @@ article img {
   text-decoration: none;
 }
 
+.profile a {
+  text-decoration: none;
+}
+
+.book img {
+  height: 650px;
+}
+
+
+.row a.buy {
+  background-color: #FF9900;
+  border-color: #FF9900;
+  color: #000;
+}
+
+.row a.buy:hover {
+  background-color: #FF9900;
+  border-color: #FF9900;
+  color: #000;
+  opacity: .8;
+}
+
+.footer .book img {
+  height: 300px;
+}
+
+
+img.profile {
+  width: 300px;
+}
+
+.nav-cat a {
+  margin-left: 30px;
+}
+
 .header a.selected {
   opacity: 1
 }
+
+
 
 h1 small {
   font-size: 16px;

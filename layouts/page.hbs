@@ -9,11 +9,14 @@
         <section>
           {{{ contents }}}
 
-
+          <br><br>
+          <a name="blog"></a>
           <h2>Blog</h2>
 
-          {{#each collections.things }}
-            {{> smallthing }}
+          {{#each collections.posts }}
+          <div class="row smallthing">
+              <a href="/{{ this.path }}/"><h5>{{ this.title }}</h5></a>
+          </div>
           {{/each }}
 
         </section>
