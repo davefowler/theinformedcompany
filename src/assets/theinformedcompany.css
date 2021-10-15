@@ -1,5 +1,5 @@
 body a {
-  color: rgb(71, 89, 153);
+  color: #00A6B3;
 
 }
 
@@ -35,10 +35,6 @@ blockquote:before {
    max-width: 960px;
  }
 
-article img {
-  max-width: 640px;
-}
-
 .footer {
   padding-top: 20px;
   padding-bottom: 20px;
@@ -63,6 +59,10 @@ article img {
   color: #000;
 }
 
+div.container.cream {
+  background-color: #FFF3E7;
+}
+
 .row a.buy:hover {
   background-color: #FF9900;
   border-color: #FF9900;
@@ -70,17 +70,14 @@ article img {
   opacity: .8;
 }
 
-.footer .book img {
-  height: 300px;
-}
 
-
-img.profile {
-  width: 300px;
+img {
+  max-width: 100%;
 }
 
 .nav-cat a {
   margin-left: 30px;
+  color: #00A6B3;
 }
 
 .header a.selected {
@@ -100,9 +97,10 @@ h1 small {
   /* background-image: url("/assets/images/hero.png"); */
 }
 
-.logo, header a.logo {
-  font-weight: 600;
-  color: rgb(229, 144, 67);
+.logo, header h5 a.logo {
+  font-weight: 500;
+  color: black; 
+  font-family: 'Helvetica Neue';
 }
 
 header a:hover {
@@ -112,16 +110,15 @@ header a:hover {
 
 .header h5 {
   font-size: 20px;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .header h5 a {
   text-decoration: none;
-  font-weight: 400;
 }
 
 .header h5 a:hover {
-  text-decoration: underline;
+  opacity: .8;
 }
 
 .header .i-about {

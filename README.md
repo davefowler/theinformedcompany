@@ -1,4 +1,6 @@
-# Simple Metalsmith site for a books
+# Simple Metalsmith site for a book at theinformedcompany.com
+
+[The Informed Company Website](https://theinformedcompany.com)
 
 
 # Running

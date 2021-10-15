@@ -1,7 +1,7 @@
 {{> header }}
 <div class="container">
   <div class="row">
-    <div class="ten columns offset-by-two">
+    <div class="eight columns offset-by-two">
       <article>
         <section>
           <h1>{{{ page.title }}}</h1>
@@ -9,13 +9,12 @@
         <section>
           {{{ contents }}}
 
-          <br><br>
           <a name="blog"></a>
           <h2>Blog</h2>
 
           {{#each collections.posts }}
           <div class="row smallthing">
-              <a href="/{{ this.path }}/"><h5>{{ this.title }}</h5></a>
+              <a href="/{{ this.path }}/"><h4>{{ this.title }}</h4></a>
           </div>
           {{/each }}
 
