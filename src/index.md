@@ -107,9 +107,11 @@ Follow on  [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/fronofro
   **Forward by** [Tristan Handy](https://twitter.com/jthandy) - CEO of [dbt Labs](https://www.getdbt.com)
 
 
-  **Editing and contributions** from [Mila Page](https://www.linkedin.com/in/mila-page/) (Developer Relations @ dbt Labs),  
-  [Emilie Schario](http://emilieschario.com) (Data-Strategist-in-Residence at Amplify Partners) and   
-  [Tracy Chow](https://www.linkedin.com/in/tracy-chow/) (Sr Data Support Engineer @ Chartio/Atlassian)
+  **Editing and contributions**   
+  [Mila Page](https://www.linkedin.com/in/mila-page/) (Developer Relations @ dbt Labs),  
+  [Emilie Schario](http://emilieschario.com) (Data-Strategist-in-Residence at Amplify Partners),     
+  [Tracy Chow](https://www.linkedin.com/in/tracy-chow/) (Sr Data Support Engineer @ Chartio/Atlassian),  
+  [David Yerrington](https://www.yerrington.net) (Data Science Consultant)
 
 
 
