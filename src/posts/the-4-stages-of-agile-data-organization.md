@@ -1,6 +1,6 @@
 ---
 title: "The 4 Stages of Agile Data Organization"
-date: '10-26-21'
+date: '10/23/21'
 ---
 *The following is an excerpt of the Introduction chapter of the book [The Informed Company](/).  It introduces the 4 stages of data sophistication that the book walks through.*
 
