@@ -29,8 +29,10 @@ In my work at Chartio (now part of Atlassian), I get to meet many people who wor
 
 Surprisingly, most people tell me they’re completely self-taught and have “just figured it out”. As a follow-up, I ask what sources they’ve relied on, and the answers are all over the map. Mostly they’ll cite Google, StackOverflow, blogs, and sometimes these books:
 
- - [Agile Data Warehouse Design](https://www.amazon.com/Agile-Data-Warehouse-Design-Collaborative/dp/0956817203/ref=asc_df_0956817203/?tag=hyprod-20&linkCode=df0&hvadid=266023323049&hvpos=1o1&hvnetw=g&hvrand=17506356589734013397&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1014221&hvtargid=pla-334867027108&psc=1) by Lawrence Corr (2011)
- - [The Data Warehouse Toolkit](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/) by Ralph Kimball (originally published in 2004 with a 3rd edition update in 2013)
+ <li><a href="https://www.amazon.com/Agile-Data-Warehouse-Design-Collaborative/dp/0956817203/ref=asc_df_0956817203/?tag=hyprod-20&linkCode=df0&hvadid=266023323049&hvpos=1o1&hvnetw=g&hvrand=17506356589734013397&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1014221&hvtargid=pla-334867027108&psc=1">Agile Data Warehouse Design</a> by Lawrence Corr (2011)
+ </li>
+ <li><a href="https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/">The Data Warehouse Toolkit</a> by Ralph Kimball (originally published in 2004 with a 3rd edition update in 2013)
+</li>
 
  These books were very good for their time, and became classics. But in the timeframe of data, they’re ancient. Both were written before Redshift and the gains of the [cloud C-Store warehouse](https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/). Back then, data was at a totally different scale, had very different costs, was used with totally different products, and was handled by people with very different training—primarily just at enterprise companies.
 
