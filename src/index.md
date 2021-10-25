@@ -111,7 +111,7 @@ Follow on  [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/fronofro
   [Mila Page](https://www.linkedin.com/in/mila-page/) (Developer Relations @ dbt Labs),  
   [Emilie Schario](http://emilieschario.com) (Data-Strategist-in-Residence at Amplify Partners),     
   [Tracy Chow](https://www.linkedin.com/in/tracy-chow/) (Sr Data Support Engineer @ Chartio/Atlassian),  
-  [David Yerrington](https://www.yerrington.net) (Data Science Consultant)
+  [David Yerrington](https://www.yerrington.net) (Data Science Consultant and Educator)
 
 
 

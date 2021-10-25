@@ -65,7 +65,7 @@ For those of you who've read the starter e-book version, you'll notice that this
 
 There are a lot of people to thank in the writing of this book.  First of all we want to thank all of the great people we've met over the years who've shared your data stories - either as customers, prospects, partners or thought leaders.  Each of you have contributed your experience to this work and we are incredibly grateful.
 
-[Mila Page](https://www.linkedin.com/in/mila-page/) (Developer Relations @ dbt Labs), and [Emilie Schario](http://emilieschario.com) (Data-Strategist-in-Residence at Amplify Partners) and [David Yerrington](https://www.yerrington.net) (Data Science Consultant) for their great edits and writing additions to the book.
+[Mila Page](https://www.linkedin.com/in/mila-page/) (Developer Relations @ dbt Labs), and [Emilie Schario](http://emilieschario.com) (Data-Strategist-in-Residence at Amplify Partners) and [David Yerrington](https://www.yerrington.net) (Data Science Consultant and Educator) for their great edits and writing additions to the book.
 
 Our great team at Chartio (now Atlassian) who had such a big part in implementing and testing and teaching all these practices over the years for ourselves and customers.  Special shout outs to [Tracy Chow](https://www.linkedin.com/in/tracy-chow/) and [Brian Hartsock](https://www.linkedin.com/in/brianhartsock/) for all the incredible data modeling work and iterations.
 
