@@ -109,12 +109,12 @@ Working for over a decade with thousands of modern companies at all stages we've
  - Chapter 14 Managing Data Access
  - Chapter 15 Maintaining the Source of Truth
 
-##### Stage 4 Data Marts (aka Data Democratized)
+#### Stage 4 Data Marts (aka Data Democratized)
 
  - Chapter 16 Data Mart Implementation
  - Chapter 17 Data Mart Maintenance
 
- #### What's changed in data
+#### What's changed in data
 
  - Chapter 18 Modern versus Traditional Data Stacks: What’s Changed?
  - Chapter 19 Row- versus Column-Oriented Database
