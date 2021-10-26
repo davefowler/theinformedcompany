@@ -41,9 +41,9 @@ Surprisingly, most people tell me they’re completely self-taught and have “j
 
  ## Book overview
 
- We wrote this book for whoever values data and believes that informed companies are competitive. It’s a book for the working professional creating a practical, modern data stack that can make their knowledge workers knowledgeable, so they can win.  A marketing company that knows which campaigns are working and which aren't, a product team that knows which features are used and which aren't, a support team that can find the information they need to help someone in need - these teams thrive and win over their less informed competitors.
+ We wrote this book for whoever values data and believes that informed companies are competitive. It’s a book for the working professional creating a practical, modern data stack that can make their knowledge workers knowledgeable, so they can win.  A marketing company that knows which campaigns are working and which aren't, a product team that knows which features go unused, a support team that can find the information they need to quickly help a customer - these teams thrive and win over their less informed competitors.
 
-Through working with thousands of customers at Chartio we've found that healthy companies go through 4 main stages of Agile Data, and these stages are very much tied to what the data stack looks like at each stage.
+Through working with thousands of customers at Chartio we've found that companies go through 4 main stages of Agile Data, and these stages are very much tied to what the data stack looks like at each stage.
 
  We call the stages **Source**, **Lake**, **Warehouse** and **Mart**.
 
@@ -54,9 +54,9 @@ The book is organized around these 4 stages, and you can read more about them in
 
 ## What's new?
 
-For those of you who've read the starter e-book version, you'll notice that this new edition is still organized around the same 4 stages, but that is an almost complete re-write and contains 3 times the content.  There are also a few new sections, most notably:
+For those of you who've read the starter e-book version, you'll notice that this new edition is still organized around the same 4 stages, but that is an almost complete re-write with three times the content.  There are also a few new sections, most notably:
 
- - **Data Modeling Practices** - There's a full chapter with a number of examples, style guides, steps and best practices for data modeling.  Someone should probably write a new full book just on data modeling, but until then I believe this is the most in-depth data modeling teachings in the past decade.
+ - **Data Modeling Practices** - There's a full chapter with a number of examples, style guides, steps and best practices for data modeling.  Someone should probably write a new full book solely on data modeling, but until then I believe this is the most in-depth data modeling teachings published in the past decade.
  - **Forward by Tristan Handy** - As the CEO of dbt Labs and longtime publisher of [The Analytics Engineering Roundup](https://roundup.getdbt.com) there's no one more connected or well written on modern data.  I asked years ago if Tristan would write the forward for the book.  He happily agreed, and even though dbt Labs is on a crazy trajectory he still found the time to write an inspiring forward.
  - **What's changed** - There is also a final section in the book on *What's changed*, where we've tried to put all the explanations of what's changed in data over the past decade, like ETL -> ELT and C-store warehouses, etc.  We felt it was important to explain changes in the best practices but with our main intended audience being people who're newer to data we didn't want to clutter the book with these explanations spread out along the way.
 
