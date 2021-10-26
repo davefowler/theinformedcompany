@@ -104,7 +104,7 @@ Follow on  [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/fronofro
   <div class="eight columns u-text-center" style="text-align: center;">
 
 
-  **Forward by** [Tristan Handy](https://twitter.com/jthandy) - CEO of [dbt Labs](https://www.getdbt.com)
+  **Foreword by** [Tristan Handy](https://twitter.com/jthandy) - CEO of [dbt Labs](https://www.getdbt.com)
 
 
   **Editing and contributions**   
