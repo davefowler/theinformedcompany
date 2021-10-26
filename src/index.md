@@ -48,7 +48,18 @@ They began organizing and writing on the stages, pitfalls and best practices of 
 > George Barnett - Sr Platform Architect @ [Atlassian](https://atlassian.com)
 
 
+</div>
+</div>
+</div>
+<div class="container cream">
+
+<div class="fourteen columns offset-by-two">
+
 ## The 4 Stages of Agile Data Organization
+
+<div class="row profile">
+  <div class="eight columns ">
+
 
 Working for over a decade with thousands of modern companies at all stages we've recognized 4 healthy stages that companies go through as they grow.
 
@@ -56,6 +67,61 @@ Working for over a decade with thousands of modern companies at all stages we've
 
  The book is organized as a progression through these 4 stages, each an addition to the last bringing both extra overhead and benefits.  
 [>> Read more in the Intro Chapter](/posts/the-4-stages-of-agile-data-organization/)
+
+
+
+  </div>
+  <div class="two columns">&nbsp;</div>
+
+  </div>
+
+</div>
+</div>
+
+<div class="container">
+
+<div class="row profile">
+  <div class="ten columns offset-by-two">
+
+## Table of contents
+
+#### Stage 1 Source (aka Siloed Data)
+
+ - Chapter 1 Starting with Source Data
+ - Chapter 2 The Need to Replicate Source Data
+ - Chapter 3 Source Data Best Practices
+
+#### Stage 2 Data Lake (aka Data Combined)
+
+ - Chapter 4 Why Build a Data Lake?
+ - Chapter 5 Choosing an Engine for the Data Lake
+ - Chapter 6 Extract and Load (EL) Data
+ - Chapter 7 Data Lake Security
+ - Chapter 8 Data Lake Maintenance
+
+#### Stage 3 Data Warehouse (aka the Single Source of Truth)
+
+ - Chapter 9 The Power of Layers and Views
+ - Chapter 10 Staging Schemas
+ - Chapter 11 Model Data with dbt
+ - Chapter 12 Deploy Modeling Code
+ - Chapter 13 Implementing the Data Warehouse
+ - Chapter 14 Managing Data Access
+ - Chapter 15 Maintaining the Source of Truth
+
+##### Stage 4 Data Marts (aka Data Democratized)
+
+ - Chapter 16 Data Mart Implementation
+ - Chapter 17 Data Mart Maintenance
+
+ #### What's changed in data
+
+ - Chapter 18 Modern versus Traditional Data Stacks: What’s Changed?
+ - Chapter 19 Row- versus Column-Oriented Database
+ - Chapter 20 Style Guide Example
+ - Chapter 21 Building an SST Example
+
+<br><br>
 
 
 </div>

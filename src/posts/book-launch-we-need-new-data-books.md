@@ -60,6 +60,8 @@ For those of you who've read the starter ebook version, you'll notice that this 
  - **Foreword by Tristan Handy** - As the CEO of dbt Labs and longtime publisher of [The Analytics Engineering Roundup](https://roundup.getdbt.com) there's no one more connected or well written on modern data.  Years ago, I asked Tristan to write the foreword for the book.  He happily agreed, and even though [dbt Labs](https://www.getdbt.com) is on a crazy trajectory he still found the time to write an inspiring foreword.
  - **What's changed** - There is also a final section in the book on *What's changed*, where we've tried to put all the explanations of what's changed in data over the past decade, like ETL -> ELT and C-store warehouses, etc.  We felt it was important to explain changes in the best practices but with our main intended audience being people who are newer to data, we didn't want to clutter the book with these explanations spread out along the way.
 
+ You can see more in the [Table of contents](/#table-of-contents).
+
 
 ## Thank you's
 
