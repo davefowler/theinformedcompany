@@ -43,7 +43,7 @@ Surprisingly, most people tell me they’re completely self-taught and have “j
 
  We wrote this book for anyone who values data and believes that a well Informed Company is more competitive. It’s a book for the working professional creating a practical, modern data stack that can make their knowledge workers knowledgeable, so they can win.  A marketing team that knows which campaigns are working and which aren't, a product team that knows which features go unused, a support team that can find the information they need to quickly help a customer - these teams thrive and win over their less informed competitors.
 
-Through working with thousands of customers at Chartio we've found that companies go through four main stages of Agile Data, and these stages are very much tied to what the data stack looks like at each stage.
+Through working with thousands of customers at Chartio we've found that companies go through four main stages of Agile Data, and they are very much tied to what the data stack looks like at each stage.
 
  We call the stages **Source**, **Lake**, **Warehouse** and **Mart**.
 
