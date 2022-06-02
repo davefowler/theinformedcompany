@@ -40,7 +40,7 @@ They began organizing and writing on the stages, pitfalls and best practices of 
 
 > The Informed Data Company is a lucid, pragmatic explanation of how to use data in a modern organization.  
 >
-> ~ George Frasier - CEO @ [Fivetran](https://fivetran.com)
+> ~ George Fraser - CEO @ [Fivetran](https://fivetran.com)
 
 
 > This book is the missing map to the modern data landscape and is highly recommended for technology professionals seeking to improve their understanding and avoid pitfalls when implementing a modern data lake and associated capabilities.  
